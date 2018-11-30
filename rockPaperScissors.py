@@ -47,3 +47,5 @@ elif player == 'Scissors' or player == 's' or player == 'scissors':
     elif computer == 'Scissors':
         print(computer)
         print('It was a draw!')
+    else: 
+        print("You didn't choose one!")
